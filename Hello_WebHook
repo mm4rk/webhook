@@ -1,1 +1,2 @@
 echo "Hello from Jenkins Web Hook"
+echo "Hi man it's works"
